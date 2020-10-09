@@ -2,6 +2,8 @@
 
 [@ThisIsSuree](https://twitter.com/ThisIsSuree)
 
+機種変をするため、Twitterのヘッダー画像を作り直す。
+
 ## デバイスサイズ
 
 実際の大きさ(cm)の2倍(px)を四捨五入した値で作成。
