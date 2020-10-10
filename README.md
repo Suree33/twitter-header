@@ -1,7 +1,5 @@
 # 自分用Twitterヘッダー
 
-[@ThisIsSuree](https://twitter.com/ThisIsSuree)
-
 機種変をするため、Twitterのヘッダー画像を作り直す。
 
 ## デバイスサイズ
