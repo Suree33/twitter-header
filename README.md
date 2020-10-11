@@ -23,3 +23,13 @@ Twitterのヘッダー画像を作り直す。
 
 8.9 * 175.7 (mm)  
 → 18 * 351 (px)
+
+### Apple Watch SE 44mm (本体)
+
+44mm (width) * 10.7 (depth) (mm)  
+→ 88 * 21 (px)
+
+### AirPods Pro (ケース)
+
+60.6 * 45.2 (mm)  
+→ 121 * 90 (px)
